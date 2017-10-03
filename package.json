@@ -97,7 +97,7 @@
     "stylus-loader": "^2.4.0",
     "temp": "0.8.3",
     "typescript": "~2.0.3",
-    "url-loader": "^0.5.7",
+    "url-loader": "^0.6.0",
     "walk-sync": "^0.3.1",
     "webpack": "~2.2.0",
     "webpack-dev-server": "~2.3.0",

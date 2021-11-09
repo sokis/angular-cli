@@ -61,7 +61,7 @@
     "fs-extra": "~2.0.0",
     "get-caller-file": "^1.0.0",
     "glob": "^7.0.3",
-    "html-webpack-plugin": "^2.19.0",
+    "html-webpack-plugin": "^4.0.0",
     "inflection": "^1.7.0",
     "inquirer": "^3.0.0",
     "isbinaryfile": "^3.0.0",
